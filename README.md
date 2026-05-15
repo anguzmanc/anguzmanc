@@ -20,7 +20,7 @@ My interests lie in innovative projects and emerging technologies such as Teleco
 
 <br/>
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Tech Stack:</h3>
 
 - :space_invader: 
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -57,10 +57,28 @@ My interests lie in innovative projects and emerging technologies such as Teleco
 
 <br/>
 
+<h3> 📝 &nbsp;Recent Projects:</h3>
+
+<!--
+<p>
+	
+### [ Using Dating Profiles to Predict Occupation: ](https://github.com/DataOnATangent/Representative_Profiles_Machine_Learning_Project)<br>
+Machine learning prediction model using logistic regression to predict a users observations using the various features used on their OKCupid dating profile. Data collected from OKCupid.com in the San Francisco Area.<br>
+Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn, Scipy
+
+
+</p>
+
+-->
+
+<br/>
+
 <h3> 🤝 &nbsp;Connect with me!</h3>
 <p align="center">
-<a href= "www.linkedin.com/in/andresguzman07">
+<a href= "https://www.linkedin.com/in/andresguzman07/">
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:anguzmanc2001@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-</a> </p>
+  <a href="mailto:anguzmanc2001@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 
+------
+Credit: [anguzmanc](https://github.com/anguzmanc) Last Edited on: 15/05/2026
+</a> </p>
