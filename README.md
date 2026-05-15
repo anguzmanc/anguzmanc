@@ -59,17 +59,15 @@ My interests lie in innovative projects and emerging technologies such as Teleco
 
 <h3> 📝 &nbsp;Recent Projects:</h3>
 
-<!--
 <p>
 	
-### [ Using Dating Profiles to Predict Occupation: ](https://github.com/DataOnATangent/Representative_Profiles_Machine_Learning_Project)<br>
-Machine learning prediction model using logistic regression to predict a users observations using the various features used on their OKCupid dating profile. Data collected from OKCupid.com in the San Francisco Area.<br>
-Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn, Scipy
+### [Automatic Dog Food Dispenser: ](https://github.com/anguzmanc/automatic_dog_food_dispenser)<br>
+Automatic dog food dispenser implemented on FPGA using Verilog HDL to automate pet feeding and monitor food storage levels through an ultrasonic sensing system. The project integrates a servo-controlled dispensing gate, LED food-level indicators, and timer-based automation for scheduled feeding operations.<br>
+Technologies Utilized: Verilog HDL, FPGA Development, Digital Electronics, HC-SR04 Ultrasonic Sensor, SG90 Servomotor, RTL Design
 
 
 </p>
 
--->
 
 <br/>
 
