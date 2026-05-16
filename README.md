@@ -65,6 +65,10 @@ My interests lie in innovative projects and emerging technologies such as Teleco
 Automatic dog food dispenser implemented on FPGA using Verilog HDL to automate pet feeding and monitor food storage levels through an ultrasonic sensing system. The project integrates a servo-controlled dispensing gate, LED food-level indicators, and timer-based automation for scheduled feeding operations.<br>
 Technologies Utilized: Verilog HDL, FPGA Development, Digital Electronics, HC-SR04 Ultrasonic Sensor, SG90 Servomotor, RTL Design
 
+### [FPGA Maze Solver Robot: ](https://github.com/anguzmanc/FPGA_Maze_Solver_Robot)<br>
+Autonomous maze-solving robot implemented using Verilog HDL and FPGA-based digital control systems to navigate and escape maze environments. The project integrates ultrasonic wall detection, finite state machine (FSM) navigation logic, PWM motor control, MQTT wireless communication through ESP32, and Python-based maze trajectory visualization using Turtle graphics.<br>
+Technologies Utilized: Verilog HDL, Xilinx ZYBO Z7 FPGA, Quartus, FSM Design, HC-SR04 Ultrasonic Sensors, PWM Motor Control, H-Bridge Driver, ESP32, MQTT Protocol, Python, Turtle Graphics, Digital Electronics
+
 
 </p>
 
